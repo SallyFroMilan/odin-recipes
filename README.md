@@ -1,2 +1,2 @@
 # odin-recipes
-Putting **HTML knowledge** acquired into practice, by <em>building</em> a basic **recipe website.**
+Gathering **HTML learning**, turning theory into practice by <em>creating</em> **a basic recipe website;** a main index page with links to a few recipes, will be **a good start to build HTML skills.**
