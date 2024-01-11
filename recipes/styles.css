@@ -1,0 +1,44 @@
+* {
+    font-size: 20px;
+}
+
+h1 {
+    background-color: #82b0e4;
+    position: relative; 
+    top: -22px;
+}
+
+h2 {
+    background-color: yellow;
+}
+
+h1, h2 {
+    align-items: center;
+    display: flex;
+    font-size: 35px;
+    height: 63px;
+    justify-content: center;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+img {
+    border: 7px solid black;
+    float: left;
+    height: 600px;
+    margin-left: 10px;
+    width: 550px;
+    margin-right: 29px;
+}
+
+
