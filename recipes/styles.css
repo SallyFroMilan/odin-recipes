@@ -4,7 +4,7 @@
 }
 
 h1 {
-    background-color: #82b0e4;
+    background-color: #007FFF;
     position: relative; 
     top: -22px;
 }
@@ -33,7 +33,7 @@ h3 {
 }
 
 img {
-    border: 7px solid black;
+    border: 7px solid #007FFF;
     float: left;
     height: 480px;
     margin-left: 10px;
