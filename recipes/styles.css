@@ -1,5 +1,6 @@
 * {
     font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1 {
@@ -9,13 +10,13 @@ h1 {
 }
 
 h2 {
-    background-color: yellow;
+    background-color:  #DF3F32; 
 }
 
 h1, h2 {
     align-items: center;
     display: flex;
-    font-size: 35px;
+    font-size: 30px;
     height: 63px;
     justify-content: center;
     margin-left: -7px;
@@ -23,22 +24,19 @@ h1, h2 {
 }
 
 h3 {
-    font-size: 28px;
+    font-size: 30px;
     font-weight: bold;
-}
-
-h4 {
-    font-size: 28px;
-    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fef69e;
 }
 
 img {
     border: 7px solid black;
     float: left;
-    height: 600px;
+    height: 480px;
     margin-left: 10px;
-    width: 550px;
+    width: 440px;
     margin-right: 29px;
 }
-
-
