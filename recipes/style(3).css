@@ -1,24 +1,73 @@
-h1 {
-    background-color: red; 
-    color: white;
+*  {
+    font-family:'Lucida Sans', sans-serif;
 }
 
-p {
-    background-color: green;
+h1 {
+    position: relative; 
+    background-color: #008C45; 
     color: white;
-    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    height: 63px;
+    top: -21px;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+
+h2 {
+    position: relative; 
+    background-color: #CD212A; 
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    height: 63px;
+    bottom: 64px;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+
+body {
+    background-image: url(../images/strada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h3 {
-    font-size: 28px;
-    font-weight: bold;
+    font-size: 45px;
+    font-style: italic;
+    margin-top: 80px;
+    color: #007FFF;
 }
 
 h4 {
-    font-size: 28px;
-    font-weight: bold;
+    font-size: 40px;
+    font-style: italic;
+    color: black;
+    margin-bottom: -3px;
+    display: flex;
+    justify-content: center;
 }
 
-p, ul, ol {
-    font-size: 20px;
+ul, ol {
+    color: #ffffff;
+    font-size: 25px;
 }
+
+img {
+    border: 7px solid white;
+    border-radius: 9px;
+    position: relative;
+    display: flex;
+    bottom: 40px;
+    right:10px;
+    width: 500px;
+}
+
+ul {
+    background-color: rgba(255, 0, 0, 0.4);
+}
+
